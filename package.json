@@ -4,10 +4,11 @@
   "description": "A project to showcase Workflow ",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/nads58/my_test_project.git"
   },
   "author": "Ihsan Omer",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.2"
   }
 }
