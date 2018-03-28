@@ -9,6 +9,7 @@
   "author": "Ihsan Omer",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-coffee": "^3.0.2"
+    "gulp-coffee": "^3.0.2",
+    "gulp-concat": "^2.6.1"
   }
 }
