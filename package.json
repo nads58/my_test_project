@@ -9,7 +9,10 @@
   "author": "Ihsan Omer",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
     "gulp-coffee": "^3.0.2",
-    "gulp-concat": "^2.6.1"
+    "gulp-concat": "^2.6.1",
+    "jquery": "^3.3.1",
+    "mustache": "^2.3.0"
   }
 }
