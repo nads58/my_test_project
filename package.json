@@ -7,5 +7,7 @@
     "url": "?.git"
   },
   "author": "Ihsan Omer",
-  "devDependencies": {}
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
